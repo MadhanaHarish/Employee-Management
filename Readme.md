@@ -1,4 +1,4 @@
-\# Employee Management System
+# Employee Management System
 
 ## Overview
 The Employee Management System is a desktop application built using Python's Tkinter library for the GUI and SQLite for the database. This application allows users to manage employee records, including adding, updating, deleting, and searching for employee details.
