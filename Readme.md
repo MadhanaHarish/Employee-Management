@@ -35,4 +35,5 @@ pip install tk
 - Enhancing the UI for better user experience.
 
 ## Contact
-For any queries or suggestions, feel free to reach out to me at myemail@example.com.
+For any queries or suggestions, feel free to reach out to me at rajagopalamadhan@gmail.com.
+
